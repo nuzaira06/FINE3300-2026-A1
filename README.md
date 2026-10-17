@@ -40,7 +40,7 @@ The program calculates the converted amount using the latest exchange rate in th
 Technologies Used: Python, Visual Studio Code, CSV file handling ,Git and GitHub
 
 ## Write up
-Answer A.  Link to your GitHub repository: 
+Answer A.  Link to your GitHub repository: https://github.com/nuzaira06/FINE3300-2026-A1 
 
 ## Answer B: output of $100,000 USD to CAD
 
